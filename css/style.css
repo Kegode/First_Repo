@@ -1,0 +1,107 @@
+
+        /*Login Styling*/
+        form{
+            background-color: coral;
+            width: 210px;
+            color: white;
+            padding: 10px 20px;
+        }
+        input{
+            text-decoration: none;
+            background-color: darkseagreen;
+            color: black;
+            padding: 5px 0;
+        }
+        button{
+            background-color: chocolate;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 10px
+        }
+
+        /*Register styling*/
+
+    form{
+            background-color: coral;
+            width: 380px;
+            border: 2px solid black;
+            border-radius: 10px;
+        }
+
+        h1{
+            color: blue;
+            font-size: 30px;
+            font-family: Dialog;
+            font-weight: bold;
+            text-align: left;
+            text-decoration: underline;
+        }
+        body{
+            background-color: darkseagreen;
+        }
+        button{
+            background-color: chocolate;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+        /*About Us styling*/
+        table,th,td{
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+        th, td{
+            background-color: coral;
+            border-color: burlywood;
+        }
+        td{
+            text-align: center;
+        }
+        table{
+            border-spacing: 40px;
+        }
+
+        div{
+            background-color: blue;
+            text-align: center;
+        }
+        .one{
+            background-color: darkcyan;
+            height: 50vh;
+        }
+        .two{
+            background-color: chartreuse;
+        }
+        .three{
+            background-color: blueviolet;
+        }
+        #moja{
+            background-color: chartreuse;
+        }
+        #mbili{
+            background-color: burlywood;
+        }
+        #tatu{
+            background-color: aqua;
+        }
+
+        .a{
+            background-color: #0a58ca;
+            height: 40vh;
+        }
+        .b{
+            background-color: black;
+            height: 40vh;
+        }
+        .c{
+            background-color: #0f5132;
+            height: 40vh;
+        }
+        .d{
+            background-color: #664d03;
+            height: 40vh;
+        }
+        .img_one{
+            height: 50vh;
+            width: 100%;
+        }
